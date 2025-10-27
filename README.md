@@ -17,10 +17,11 @@ A beginner-friendly ROS2 Humble project demonstrating synchronized pattern drawi
 ## Demo
 
 ### Circle Pattern Demo  
-![Circle Pattern Demo](img/Screenshot from 2025-10-27 20-40-33.png)
+![Circle Pattern Demo](img/circle_pattern.png)
 
 ### Spiral Pattern Demo  
-![Spiral Pattern Demo](img/Screenshot from 2025-10-27 20-37-53.png)
+![Spiral Pattern Demo](img/spiral_pattern.png)
+
 ---
 
 ## Installation
@@ -37,6 +38,27 @@ cd ros2-multiturtle-sync
 colcon build
 source install/setup.bash
 
+text
+
+---
+
+## Usage Instructions
+
+### Launch the Simulator and Nodes
+
+Open three separate terminals and run the following commands:
+
+Terminal 1: Start the turtlesim simulator
+
+ros2 run turtlesim turtlesim_node
+Terminal 2: Start the drawing controller node
+
+ros2 run multiturtle_sync drawing_controller
+Terminal 3: Start the command menu interface
+
+ros2 run multiturtle_sync command_sender
+
+text
 
 ### Command Menu Options
 
@@ -53,7 +75,7 @@ In Terminal 3, use the following keys to control turtle drawing patterns:
 ## Project Structure
 
 - `src/multiturtle_sync/multiturtle_sync/` — Python ROS2 node scripts
-- `img/` — Project screenshots and visuals (add your own images here)
+- `img/` — Project screenshots and visuals
 - `README.md` — This project documentation
 
 ---
@@ -71,6 +93,3 @@ This project is licensed under the MIT License.
 ---
 
 Made by [samshoni](https://github.com/samshoni)
-
-
-
