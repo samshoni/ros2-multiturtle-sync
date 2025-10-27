@@ -16,11 +16,11 @@ A beginner-friendly ROS2 Humble project demonstrating synchronized pattern drawi
 
 ## Demo
 
+### Circle Pattern Demo  
 ![Circle Pattern Demo](img/Screenshot from 2025-10-27 20-40-33.png)
+
+### Spiral Pattern Demo  
 ![Spiral Pattern Demo](img/Screenshot from 2025-10-27 20-37-53.png)
-
-*(Add your own screenshots or GIFs here to visually demonstrate the patterns)*
-
 ---
 
 ## Installation
