@@ -1,0 +1,24 @@
+running egg_info
+writing ../../build/multiturtle_sync/multiturtle_sync.egg-info/PKG-INFO
+writing dependency_links to ../../build/multiturtle_sync/multiturtle_sync.egg-info/dependency_links.txt
+writing entry points to ../../build/multiturtle_sync/multiturtle_sync.egg-info/entry_points.txt
+writing requirements to ../../build/multiturtle_sync/multiturtle_sync.egg-info/requires.txt
+writing top-level names to ../../build/multiturtle_sync/multiturtle_sync.egg-info/top_level.txt
+reading manifest file '../../build/multiturtle_sync/multiturtle_sync.egg-info/SOURCES.txt'
+writing manifest file '../../build/multiturtle_sync/multiturtle_sync.egg-info/SOURCES.txt'
+running build
+running build_py
+copying multiturtle_sync/command_sender.py -> /home/sam/multiturtle_ws/build/multiturtle_sync/build/lib/multiturtle_sync
+running install
+running install_lib
+copying /home/sam/multiturtle_ws/build/multiturtle_sync/build/lib/multiturtle_sync/command_sender.py -> /home/sam/multiturtle_ws/install/multiturtle_sync/lib/python3.10/site-packages/multiturtle_sync
+byte-compiling /home/sam/multiturtle_ws/install/multiturtle_sync/lib/python3.10/site-packages/multiturtle_sync/command_sender.py to command_sender.cpython-310.pyc
+running install_data
+running install_egg_info
+removing '/home/sam/multiturtle_ws/install/multiturtle_sync/lib/python3.10/site-packages/multiturtle_sync-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/multiturtle_sync/multiturtle_sync.egg-info to /home/sam/multiturtle_ws/install/multiturtle_sync/lib/python3.10/site-packages/multiturtle_sync-0.0.0-py3.10.egg-info
+running install_scripts
+Installing command_sender script to /home/sam/multiturtle_ws/install/multiturtle_sync/lib/multiturtle_sync
+Installing drawing_controller script to /home/sam/multiturtle_ws/install/multiturtle_sync/lib/multiturtle_sync
+Installing synchronized_drawer script to /home/sam/multiturtle_ws/install/multiturtle_sync/lib/multiturtle_sync
+writing list of installed files to '/home/sam/multiturtle_ws/build/multiturtle_sync/install.log'

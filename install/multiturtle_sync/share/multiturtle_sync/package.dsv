@@ -1,0 +1,6 @@
+source;share/multiturtle_sync/hook/pythonpath.ps1
+source;share/multiturtle_sync/hook/pythonpath.dsv
+source;share/multiturtle_sync/hook/pythonpath.sh
+source;share/multiturtle_sync/hook/ament_prefix_path.ps1
+source;share/multiturtle_sync/hook/ament_prefix_path.dsv
+source;share/multiturtle_sync/hook/ament_prefix_path.sh

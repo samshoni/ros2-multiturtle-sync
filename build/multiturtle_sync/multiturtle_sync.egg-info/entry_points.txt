@@ -1,0 +1,4 @@
+[console_scripts]
+command_sender = multiturtle_sync.command_sender:main
+drawing_controller = multiturtle_sync.drawing_controller:main
+synchronized_drawer = multiturtle_sync.synchronized_drawer:main

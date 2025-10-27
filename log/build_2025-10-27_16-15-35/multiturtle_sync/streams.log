@@ -1,0 +1,26 @@
+[1.007s] Invoking command in '/home/sam/multiturtle_ws/src/multiturtle_sync': PYTHONPATH=/home/sam/multiturtle_ws/build/multiturtle_sync/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/sam/multiturtle_ws/install/multiturtle_sync/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/multiturtle_sync build --build-base /home/sam/multiturtle_ws/build/multiturtle_sync/build install --record /home/sam/multiturtle_ws/build/multiturtle_sync/install.log --single-version-externally-managed install_data
+[1.341s] running egg_info
+[1.359s] writing ../../build/multiturtle_sync/multiturtle_sync.egg-info/PKG-INFO
+[1.359s] writing dependency_links to ../../build/multiturtle_sync/multiturtle_sync.egg-info/dependency_links.txt
+[1.359s] writing entry points to ../../build/multiturtle_sync/multiturtle_sync.egg-info/entry_points.txt
+[1.359s] writing requirements to ../../build/multiturtle_sync/multiturtle_sync.egg-info/requires.txt
+[1.359s] writing top-level names to ../../build/multiturtle_sync/multiturtle_sync.egg-info/top_level.txt
+[1.393s] reading manifest file '../../build/multiturtle_sync/multiturtle_sync.egg-info/SOURCES.txt'
+[1.393s] writing manifest file '../../build/multiturtle_sync/multiturtle_sync.egg-info/SOURCES.txt'
+[1.394s] running build
+[1.394s] running build_py
+[1.394s] copying multiturtle_sync/command_sender.py -> /home/sam/multiturtle_ws/build/multiturtle_sync/build/lib/multiturtle_sync
+[1.394s] running install
+[1.400s] running install_lib
+[1.417s] copying /home/sam/multiturtle_ws/build/multiturtle_sync/build/lib/multiturtle_sync/command_sender.py -> /home/sam/multiturtle_ws/install/multiturtle_sync/lib/python3.10/site-packages/multiturtle_sync
+[1.418s] byte-compiling /home/sam/multiturtle_ws/install/multiturtle_sync/lib/python3.10/site-packages/multiturtle_sync/command_sender.py to command_sender.cpython-310.pyc
+[1.418s] running install_data
+[1.419s] running install_egg_info
+[1.439s] removing '/home/sam/multiturtle_ws/install/multiturtle_sync/lib/python3.10/site-packages/multiturtle_sync-0.0.0-py3.10.egg-info' (and everything under it)
+[1.439s] Copying ../../build/multiturtle_sync/multiturtle_sync.egg-info to /home/sam/multiturtle_ws/install/multiturtle_sync/lib/python3.10/site-packages/multiturtle_sync-0.0.0-py3.10.egg-info
+[1.440s] running install_scripts
+[1.647s] Installing command_sender script to /home/sam/multiturtle_ws/install/multiturtle_sync/lib/multiturtle_sync
+[1.647s] Installing drawing_controller script to /home/sam/multiturtle_ws/install/multiturtle_sync/lib/multiturtle_sync
+[1.648s] Installing synchronized_drawer script to /home/sam/multiturtle_ws/install/multiturtle_sync/lib/multiturtle_sync
+[1.648s] writing list of installed files to '/home/sam/multiturtle_ws/build/multiturtle_sync/install.log'
+[1.683s] Invoked command in '/home/sam/multiturtle_ws/src/multiturtle_sync' returned '0': PYTHONPATH=/home/sam/multiturtle_ws/build/multiturtle_sync/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/sam/multiturtle_ws/install/multiturtle_sync/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/multiturtle_sync build --build-base /home/sam/multiturtle_ws/build/multiturtle_sync/build install --record /home/sam/multiturtle_ws/build/multiturtle_sync/install.log --single-version-externally-managed install_data
